@@ -1,0 +1,12 @@
+﻿<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!-- Suite para ejecutar únicamente la historia de historial de pedidos -->
+<suite name="JuiceShop - Historial" parallel="none" thread-count="1">
+    <listeners>
+        <listener class-name="com.juice.listeners.ScreenshotListener"/>
+    </listeners>
+    <test name="Historial de pedidos">
+        <classes>
+            <class name="com.juice.tests.HistorialRunner"/>
+        </classes>
+    </test>
+</suite>

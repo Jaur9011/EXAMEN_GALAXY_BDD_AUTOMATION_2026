@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!-- Suite parcial: Agregar Direccion + Metodos de Pago -->
+<suite name="JuiceShop - Direccion y Pago" parallel="methods" thread-count="2">
+
+    <listeners>
+        <listener class-name="com.juice.listeners.ScreenshotListener"/>
+    </listeners>
+
+    <test name="Direccion y Pago">
+        <classes>
+            <class name="com.juice.tests.DireccionPagoRunner"/>
+        </classes>
+    </test>
+
+</suite>

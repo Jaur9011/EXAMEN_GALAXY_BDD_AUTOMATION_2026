@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!-- Suite parcial: Cesta (2 pedidos) + Historial de ordenes -->
+<suite name="JuiceShop - Cesta y Historial" parallel="none" thread-count="1">
+
+    <listeners>
+        <listener class-name="com.juice.listeners.ScreenshotListener"/>
+    </listeners>
+
+    <test name="Cesta y Historial">
+        <classes>
+            <class name="com.juice.tests.CestaHistorialRunner"/>
+        </classes>
+    </test>
+
+</suite>

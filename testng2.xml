@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!-- Suite parcial: Registro + Inicio de sesion -->
+<suite name="JuiceShop - Registro y Login" parallel="methods" thread-count="2">
+
+    <listeners>
+        <listener class-name="com.juice.listeners.ScreenshotListener"/>
+    </listeners>
+
+    <test name="Registro y Login">
+        <classes>
+            <class name="com.juice.tests.RegistroLoginRunner"/>
+        </classes>
+    </test>
+
+</suite>
