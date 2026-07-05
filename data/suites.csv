@@ -1,28 +1,28 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"  Como cliente registrado de OWASP Juice Shop
-  Quiero iniciar sesion en la aplicacion
-  Para poder acceder a mi cuenta y comprar con confianza","32166","Inicio de sesion con credenciales incorrectas","","2026-07-05","passed","2026-07-05","","Inicio de sesion","Inicio de sesion con credenciales incorrectas",""
-"  Como cliente autenticado con direcciones y metodos de pago registrados
-  Quiero agregar productos a mi cesta y completar el pedido
-  Para poder recibir mis compras","41171","Pedido 2 - Compra de productos aleatorios del catalogo","","2026-07-05","broken","2026-07-05","","Cesta de compras","Pedido 2 - Compra de productos aleatorios del catalogo",""
-"  Como cliente autenticado
-  Quiero registrar direcciones de envio en mi cuenta
-  Para poder usarlas al completar mis pedidos","39931","Agregar dos direcciones de envio","","2026-07-05","passed","2026-07-05","","Agregar direccion de envio","Agregar dos direcciones de envio",""
-"  Como visitante nuevo de OWASP Juice Shop
-  Quiero poder crear una cuenta
-  Para poder comprar y gestionar mis pedidos","11619","Registro exitoso de nuevos usuarios","","2026-07-05","passed","2026-07-05","","Registro de usuario","Registro exitoso de nuevos usuarios",""
-"  Como cliente autenticado con direcciones y metodos de pago registrados
-  Quiero agregar productos a mi cesta y completar el pedido
-  Para poder recibir mis compras","33044","Pedido 1 - Compra usando la busqueda de productos","","2026-07-05","broken","2026-07-05","","Cesta de compras","Pedido 1 - Compra usando la busqueda de productos",""
 "  Como cliente autenticado
   Quiero registrar tarjetas de credito o debito en mi cuenta
-  Para poder usarlas al completar mis pedidos","25357","Agregar dos metodos de pago","","2026-07-05","passed","2026-07-05","","Agregar metodos de pago","Agregar dos metodos de pago",""
+  Para poder usarlas al completar mis pedidos","26822","Agregar dos metodos de pago","","2026-07-05","passed","2026-07-05","","Agregar metodos de pago","Agregar dos metodos de pago",""
+"  Como cliente autenticado con direcciones y metodos de pago registrados
+  Quiero agregar productos a mi cesta y completar el pedido
+  Para poder recibir mis compras","45706","Pedido 2 - Compra de productos aleatorios del catalogo","","2026-07-05","passed","2026-07-05","","Cesta de compras","Pedido 2 - Compra de productos aleatorios del catalogo",""
 "  Como visitante nuevo de OWASP Juice Shop
   Quiero poder crear una cuenta
-  Para poder comprar y gestionar mis pedidos","11798","Registro exitoso de nuevos usuarios","","2026-07-05","passed","2026-07-05","","Registro de usuario","Registro exitoso de nuevos usuarios",""
+  Para poder comprar y gestionar mis pedidos","12493","Registro exitoso de nuevos usuarios","","2026-07-05","passed","2026-07-05","","Registro de usuario","Registro exitoso de nuevos usuarios",""
 "  Como cliente registrado de OWASP Juice Shop
   Quiero iniciar sesion en la aplicacion
-  Para poder acceder a mi cuenta y comprar con confianza","32174","Inicio de sesion con credenciales correctas","","2026-07-05","passed","2026-07-05","","Inicio de sesion","Inicio de sesion con credenciales correctas",""
+  Para poder acceder a mi cuenta y comprar con confianza","32974","Inicio de sesion con credenciales correctas","","2026-07-05","passed","2026-07-05","","Inicio de sesion","Inicio de sesion con credenciales correctas",""
 "  Como cliente que ya realizo compras
   Quiero revisar mi historial de pedidos
-  Para verificar el estado de mis ordenes completadas","35799","Revisar el historial y capturar evidencia de los pedidos completados","","2026-07-05","broken","2026-07-05","","Historial de pedidos","Revisar el historial y capturar evidencia de los pedidos completados",""
+  Para verificar el estado de mis ordenes completadas","101000","Revisar el historial y capturar evidencia de los pedidos completados","","2026-07-05","passed","2026-07-05","","Historial de pedidos","Revisar el historial y capturar evidencia de los pedidos completados",""
+"  Como cliente registrado de OWASP Juice Shop
+  Quiero iniciar sesion en la aplicacion
+  Para poder acceder a mi cuenta y comprar con confianza","33058","Inicio de sesion con credenciales incorrectas","","2026-07-05","passed","2026-07-05","","Inicio de sesion","Inicio de sesion con credenciales incorrectas",""
+"  Como cliente autenticado con direcciones y metodos de pago registrados
+  Quiero agregar productos a mi cesta y completar el pedido
+  Para poder recibir mis compras","59485","Pedido 1 - Compra usando la busqueda de productos","","2026-07-05","passed","2026-07-05","","Cesta de compras","Pedido 1 - Compra usando la busqueda de productos",""
+"  Como visitante nuevo de OWASP Juice Shop
+  Quiero poder crear una cuenta
+  Para poder comprar y gestionar mis pedidos","11363","Registro exitoso de nuevos usuarios","","2026-07-05","passed","2026-07-05","","Registro de usuario","Registro exitoso de nuevos usuarios",""
+"  Como cliente autenticado
+  Quiero registrar direcciones de envio en mi cuenta
+  Para poder usarlas al completar mis pedidos","42218","Agregar dos direcciones de envio","","2026-07-05","passed","2026-07-05","","Agregar direccion de envio","Agregar dos direcciones de envio",""
